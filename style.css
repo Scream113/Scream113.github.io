@@ -1,0 +1,26 @@
+body{
+	background-color: #000111;
+
+}
+div{
+	width: 2220px;
+	height: 100px;
+	background-image:(../4pvSHR.jpg);
+	left: 40px;
+}
+img{
+	position: absolute;
+}
+.img1{
+	right: 10px;
+}
+.img2{
+	right: 350px;
+}
+.img3{
+	top:700px;
+}
+.img4{
+	right: 10px;
+	top: 700px;
+}
